@@ -5,3 +5,4 @@ Source code for experiments in the paper: "Widening the Gap: Benchmarking Polish
  - *evaluate_prompts.py* - code to evaluate prompts without any fine-tuning
  - *run_supervised_cv_raw.py* - code to run prompt-less supervision
  - *run_supervised_cv_prompts.py* - code to run supervised fine-tuning with prompts
+ - *BoolSingle_errors.csv* - errors of the best performing method
